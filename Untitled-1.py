@@ -17,3 +17,9 @@ print(last_char)
 length = len(favourite_fruit)
 last_chars = favourite_fruit[length - 4 :]
 print(last_chars)
+
+favorite_fruit = "blueberry"
+print(favorite_fruit[-1])
+
+favorite_fruit = "blueberyy"
+print(favorite_fruit[-2])
