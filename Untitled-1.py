@@ -27,3 +27,4 @@ print(favorite_fruit[-2])
 company_motto = "copeland's corporate company helps you capably cope with the condtant cacophony of daily life"
 second_to_last = company_motto[-2]
 print(second_to_last)
+print(company_motto[-4:])
